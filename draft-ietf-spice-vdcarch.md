@@ -25,7 +25,7 @@ author:
   -
      ins: B. Zundel
      name: Brent W. Zundel
-     organization: Tradeverifyd
+     organization: Yubikey
      email: brent.zundel@gmail.com
      country: United States
   -
