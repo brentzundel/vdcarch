@@ -172,7 +172,6 @@ normative:
         ins: M. B. Jones
         name: Michael B. Jones
     target: https://www.w3.org/TR/vc-jose-cose/
-  RFC2119:
   SDJWT: I-D.ietf-oauth-selective-disclosure-jwt
   OIDC4VP:
     title: OpenID for Verifiable Presentations
@@ -206,7 +205,7 @@ normative:
         ins: T. Looker
         name: Tobias Looker
     target: https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html
----
+
 
 --- abstract
 
