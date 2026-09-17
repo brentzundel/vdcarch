@@ -257,7 +257,7 @@ managers, and passkeys managers are examples of credential managers.
 
 Issuer:
 : The entity that cryptographically signs a verifiable digital credential,
-thereby asserting its claims about a subject
+thereby asserting its claims about a subject.
 
 Issuer service:
 : The underlying platform or infrastructure service which enables an Issuer to
