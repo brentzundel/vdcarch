@@ -319,7 +319,7 @@ Issuer service:
 : The underlying platform or infrastructure service which enables an Issuer to
 issue a verifiable digital credential.
 
-# Section Name Here
+# Architecture
 
 ## Actor Descriptions
 
