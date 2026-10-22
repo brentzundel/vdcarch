@@ -616,6 +616,7 @@ the thinking around trust and identity in general and this topic in particular.
 - Rohan Mahy
 
 # Document History
+{: numbered="false"}
 
 -02
 
